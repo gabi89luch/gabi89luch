@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Portfolio website for ICT Software Delevoper course](https://github.com/gabi89luch/blog)
 
-- 🌱 I’m currently learning **Flask and Python**
+- 🌱 I’m currently learning **C# and Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gabi89luch](https://github.com/gabi89luch)
 
