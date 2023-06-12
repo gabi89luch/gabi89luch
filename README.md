@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/gabiluchian" target="blank"><img src="https://img.shields.io/twitter/follow/@gabiluchian?logo=twitter&style=for-the-badge" alt="gabiluchian" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio website for ICT Software Delevoper course](https://github.com/gabi89luch/blog)
+- 🔭 I’m currently working on [Effective Communications in Business module in FIT ICT Software Developer Apprenticeship course](https://fit.ie/course/fit-ict-associate-apprenticeship-software-developer/)
 
-- 🌱 I’m currently learning **C# and Python**
+- 🌱 I’m currently learning **Microsoft Azure**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gabi89luch](https://github.com/gabi89luch)
 
