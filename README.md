@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/gabiluchian" target="blank"><img src="https://img.shields.io/twitter/follow/@gabiluchian?logo=twitter&style=for-the-badge" alt="gabiluchian" /></a> </p>
 
-- 🔭 I’m currently working on **Effective Communications in Business** module in [FIT ICT Software Developer](https://fit.ie/course/fit-ict-associate-apprenticeship-software-developer/) apprenticeship course.
+- 🔭 I’m currently working on finishing my documentation for my website portfolio for **Web Design** module in [FIT ICT Software Developer](https://fit.ie/course/fit-ict-associate-apprenticeship-software-developer/) apprenticeship course.
 
 - 🌱 I’m currently learning **Microsoft Azure**
 
