@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabi89luch&label=Profile%20views&color=0e75b6&style=flat" alt="gabi89luch" /> </p>
 
-- 🔭 I’m currently working on finishing my documentation for my final tasks and AWS certification in [FIT ICT Software Developer](https://fit.ie/course/fit-ict-associate-apprenticeship-software-developer/) apprenticeship course.
+- 🔭 I’m currently working on finishing my final tasks and getting ready for my AWS certification in [FIT ICT Software Developer](https://fit.ie/course/fit-ict-associate-apprenticeship-software-developer/) apprenticeship course.
 
 - 🌱 I’m currently learning **|AWS Developer Associate|**
 
