@@ -3,16 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabi89luch&label=Profile%20views&color=0e75b6&style=flat" alt="gabi89luch" /> </p>
 
-- 🔭 I’m currently working on finishing my documentation for my website portfolio for **Web Design** module in [FIT ICT Software Developer](https://fit.ie/course/fit-ict-associate-apprenticeship-software-developer/) apprenticeship course.
+- 🔭 I’m currently working on finishing my documentation for my final tasks and AWS certification in [FIT ICT Software Developer](https://fit.ie/course/fit-ict-associate-apprenticeship-software-developer/) apprenticeship course.
 
-- 🌱 I’m currently learning **Microsoft Azure**
+- 🌱 I’m currently learning **|AWS Developer Associate|**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gabi89luch](https://github.com/gabi89luch)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@gabi89luch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@gabi89luch" height="30" width="40" /></a>
-<a href="https://twitter.com/@gabiluchian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@gabiluchian" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/valentin-g-luchian-178652170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentin-g-luchian-178652170" height="30" width="40" /></a>
 </p>
 
