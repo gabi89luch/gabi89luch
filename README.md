@@ -15,6 +15,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabi89luch&label=Profile%20views&color=0e75b6&style=flat" alt="gabi89luch" /> </p>
 
 ###
 
@@ -80,13 +81,6 @@
 </div>
 
 ###
-
-<h1 align="center">Hi 👋, I'm Gabriel</h1>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabi89luch&label=Profile%20views&color=0e75b6&style=flat" alt="gabi89luch" /> </p>
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
