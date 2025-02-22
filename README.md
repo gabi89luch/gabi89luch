@@ -22,7 +22,7 @@
 I'm a Data Analyst at HSE Ireland, specializing in healthcare data and cloud technologies
 
 - 💼 Working as a Data Analyst at Health Service Executive (HSE) Ireland
-- 🎓 Completed FIT ICT Software Developer apprenticeship in 2023
+- 🎓 Completed FIT ICT Software Developer apprenticeship last year
 - 📊 Currently exploring FHIR (Fast Healthcare Interoperability Resources) and its applications
 - 👨‍💻 Check out my projects at [my GitHub](https://github.com/gabi89luch)
 
