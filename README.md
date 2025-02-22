@@ -19,11 +19,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate software developer apprentice from Ireland
+I'm a Data Analyst at HSE Ireland, specializing in healthcare data and cloud technologies
 
-- 🔭 Currently working on completing my final tasks for the [FIT ICT Software Developer](https://fit.ie/course/fit-ict-associate-apprenticeship-software-developer/) apprenticeship
-- 📚 Learning **AWS Developer Associate** certification
-- 👨‍💻 All of my projects are available at [my GitHub](https://github.com/gabi89luch)
+- 💼 Working as a Data Analyst at Health Service Executive (HSE) Ireland
+- 🎓 Completed FIT ICT Software Developer apprenticeship in 2023
+- 📊 Currently exploring FHIR (Fast Healthcare Interoperability Resources) and its applications
+- 👨‍💻 Check out my projects at [my GitHub](https://github.com/gabi89luch)
 
 ## 🛠 Languages and Tools
 
