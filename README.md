@@ -1,5 +1,7 @@
 <div align="center">
-  <img class="avatar rounded-2 avatar-user" src="https://avatars.githubusercontent.com/u/47834952?s=400&amp;u=a4c700b19d200e9ea119f08616ac1d7921206474&amp;v=4" width="200" height="200" alt="@gabi89luch">
+  <img
+  src="https://api.dicebear.com/9.x/initials/svg?seed=Valentin Gabriel Luchian"
+  alt="avatar" />
 
   <h1>Hey there, I'm Gabriel 👋</h1>
 
