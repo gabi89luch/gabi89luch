@@ -1,6 +1,6 @@
 <div align="center">
   <img
-  src="https://api.dicebear.com/9.x/initials/svg?seed=Valentin Gabriel Luchian"
+  src="https://api.dicebear.com/9.x/lorelei/svg?seed=Brian"
   alt="avatar" />
 
   <h1>Hey there, I'm Gabriel 👋</h1>
