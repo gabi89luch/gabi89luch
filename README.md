@@ -1,7 +1,7 @@
 <div align="center">
   <img
   src="https://api.dicebear.com/9.x/lorelei/svg?seed=Brian"
-  alt="avatar" />
+  alt="avatar" height="100" width="100"/>
 
   <h1>Hey there, I'm Gabriel 👋</h1>
 
