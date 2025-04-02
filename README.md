@@ -19,9 +19,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a Junior Data Analyst at HSE Ireland, specializing in healthcare data and cloud technologies
+I'm a Junior Data Analyst/Engineer at HSE Ireland, specializing in healthcare data and cloud technologies
 
-- 💼 Working as a Junior Data Analyst at Health Service Executive (HSE) Ireland
+- 💼 Working as a Junior Data Analyst/Engineer at Health Service Executive (HSE) Ireland
 - 🎓 Completed FIT ICT Software Developer apprenticeship last year
 - 📊 Currently exploring FHIR (Fast Healthcare Interoperability Resources) and its applications
 - 👨‍💻 Check out my projects at [my GitHub](https://github.com/gabi89luch)
