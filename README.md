@@ -23,7 +23,7 @@ I'm a Junior Data Analyst/Engineer at HSE Ireland, specializing in healthcare da
 
 - 💼 Working as a Junior Data Analyst/Engineer at Health Service Executive (HSE) Ireland
 - 🎓 Completed FIT ICT Software Developer apprenticeship last year
-- 📊 Currently exploring FHIR (Fast Healthcare Interoperability Resources) and its applications
+- 📊 Currently getting prepared for Microsoft Azure Data Engineer Associate and Comptia Security+ exams
 - 👨‍💻 Check out my projects at [my GitHub](https://github.com/gabi89luch)
 
 ## 🛠 Languages and Tools
