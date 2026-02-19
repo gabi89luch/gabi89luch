@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Junior Data Analyst/Engineer at HSE Ireland, specializing in healthcare data and cloud technologies
+I'm a Junior Data Engineer at HSE Ireland, specializing in healthcare data and cloud technologies
 
 - 💼 Working as a Junior Data Analyst/Engineer at Health Service Executive (HSE) Ireland
 - 🎓 Completed FIT ICT Software Developer apprenticeship in 2024
