@@ -22,8 +22,8 @@
 I'm a Junior Data Analyst/Engineer at HSE Ireland, specializing in healthcare data and cloud technologies
 
 - 💼 Working as a Junior Data Analyst/Engineer at Health Service Executive (HSE) Ireland
-- 🎓 Completed FIT ICT Software Developer apprenticeship last year
-- 📊 Currently getting prepared for Microsoft Azure Data Engineer Associate and Comptia Security+ exams
+- 🎓 Completed FIT ICT Software Developer apprenticeship in 2024
+- 📊 Currently getting prepared for Comptia CySA+ exams doing my bachelors degree, BSc (Honours) in Computing, at NCI in Dublin
 - 👨‍💻 Check out my projects at [my GitHub](https://github.com/gabi89luch)
 
 ## 🛠 Languages and Tools
